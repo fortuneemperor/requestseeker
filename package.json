@@ -1,0 +1,19 @@
+{
+  "name": "requestseeker",
+  "version": "0.0.1",
+  "description": "Explore http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortuneemperor/requestseeker.git"
+  },
+  "author": "maxime lefebvre (developper@maximelefebvre.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fortuneemperor/requestseeker/issues"
+  },
+  "homepage": "https://github.com/fortuneemperor/requestseeker#readme"
+}
